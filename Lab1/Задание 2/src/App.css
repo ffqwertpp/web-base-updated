@@ -17,7 +17,7 @@ div {
     display: flex;
     height: 300px;
     width: 700px;
-    gap: 45px;
+    gap: 51px;
 }
 
 .flex-container div:nth-child(2),
